@@ -15,5 +15,9 @@ class TestSimpleSum(unittest.TestCase):
         result = simple_sum(2, -3)
         self.assertEqual(result, -1)
 
+    def lol(self):
+        result = simple_sum(1, 1)
+        self.assertEqual(result, 2)
+
 if __name__ == '__main__':
     unittest.main()
