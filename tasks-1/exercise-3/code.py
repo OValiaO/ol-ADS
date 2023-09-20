@@ -1,17 +1,15 @@
 
 def add(x, y):
-    return x + y
+    pass
 
 
 def subtract(x, y):
-    return x - y
+    pass
 
 
 def multiply(x, y):
-    return x * y
+    pass
 
 
 def divide(x, y):
-    if y == 0:
-        return ValueError('Can not divide by zero!')
-    return x / y
+    pass
